@@ -5,11 +5,11 @@ Tool used:
 Excel, Power BI, Power Query Editor, DAX, Power Point
 
 Approach : 
- >Understanding the dataset 
- >Data cleaning 
- >Data transformation 
- >Creating requirements 
- >Creating dashboard 
+ >Understanding the dataset ,
+ >Data cleaning ,
+ >Data transformation ,
+ >Creating requirements ,
+ >Creating dashboard ,
  >Providing insights
 
 Outcome:
