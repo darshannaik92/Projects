@@ -1,5 +1,5 @@
 Objective:
-To get the insights of top hosts, revenue, reviews and overall satisfaction rate of the bookings in the various neighborhoods.
+To get the insights of top hosts, prices, revenues, reviews and overall satisfaction rate of the bookings in the various neighborhoods.
 
 Tool used:
 Excel, Power BI, Power Query Editor, DAX, Power Point
@@ -13,6 +13,6 @@ Approach :
  >Providing insights
 
 Outcome:
-Provided the details about the hosts, rooms, with AirBnB and neighborhoods. 
+Provided the insights about the hosts, revenues, rooms, with AirBnB and neighborhoods. 
 Top hosts with accomodates, prices/average/ranges, rooms, types of rooms, best/cheapest, top rated places are found.  
 
