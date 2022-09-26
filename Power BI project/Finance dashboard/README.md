@@ -11,3 +11,7 @@ Excel, Power BI, Power Query Editor, DAX
 Approach:
 
 Understanding the data, Gathering the requirement, Data cleaning, Data transformation, Data visualisation, Creating the dashboard.
+
+Outcome:
+
+Got the insights about networth, income, savings, expenses, overall Vs Month to month, savings breakdown %, expense breakdown %, and change in income MoM %.
