@@ -1,6 +1,6 @@
 Objective:
 
-To analyse the sales data for one of the company by tracking revenue/sales trends/customers, profit/revenue contribution/distribution over months across the country. 
+To analyse the sales data for Atliq company by tracking revenue/sales trends/customers, profit/revenue contribution/distribution over months across the country. 
 
 Tools:
 
